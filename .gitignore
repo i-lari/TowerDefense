@@ -27,6 +27,7 @@ logs/
 .project/
 .scala-ide/
 .metals/
+project/
 
 # IDE-specific directories
 .metals/
