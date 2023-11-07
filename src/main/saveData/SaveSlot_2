@@ -1,0 +1,53 @@
+#TD save file
+#STATE
+round : 0
+gridsize : 10
+lives : 100
+money : 300
+speed : 2
+#TILES
+ 1,0 : PathStart
+ 1,1 : Path
+ 2,1 : Path
+ 3,1 : Path
+ 4,1 : Path
+ 4,0 : Path
+ 5,0 : Path
+ 6,0 : Path
+ 6,1 : Path
+ 6,2 : Path
+ 6,3 : Path
+ 5,3 : Path
+ 4,3 : Path
+ 4,4 : Path
+ 3,4 : Path
+ 3,5 : Path
+ 3,6 : Path
+ 2,6 : Path
+ 1,6 : Path
+ 1,7 : Path
+ 1,8 : Path
+ 2,8 : Path
+ 3,8 : Path
+ 4,8 : Path
+ 6,8 : Path
+ 5,8 : Path
+ 7,8 : Path
+ 8,8 : Path
+ 9,8 : PathEnd
+ 9,7 : Water
+ 9,6 : Water
+ 9,5 : Water
+ 8,5 : Water
+ 8,6 : Water
+ 8,7 : Water
+ 7,6 : Water
+ 7,5 : Water
+ 8,4 : Water
+ 9,4 : Water
+ 8,3 : Water
+ 1,3 : Water
+ 1,4 : Water
+ 0,4 : Water
+ 2,3 : Water
+ 3,3 : Water
