@@ -1,0 +1,33 @@
+# SBT build directories
+target
+# IntelliJ IDEA project files
+.idea/
+
+# Eclipse project files
+.project
+.classpath
+.settings
+
+# Scala-IDE project files
+.scala_dependencies
+
+# Mac OS system files
+.DS_Store
+
+# Compiled files
+*.class
+*.jar
+
+# Logs
+log/
+logs/
+
+# User-specific files
+.cache/
+.project/
+.scala-ide/
+.metals/
+
+# IDE-specific directories
+.metals/
+.vscode/
