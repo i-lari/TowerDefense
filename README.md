@@ -28,4 +28,4 @@ Select a tile from the menu on the right. To deselect, press 'Esc'. Click on the
 - Automatic round generator
 - Level editor and game saving
 
-![Round14](Demo_pictures/Round14.gif)
+![Round14](Demo_pictures/round14.gif)
